@@ -10,7 +10,7 @@ class Application:
         return 'Application ajoutée'
     
     def get_nom():
-        return self.nom
+        return nom
     
     def liste():
         return 'Liste des applications'
