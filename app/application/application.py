@@ -6,7 +6,7 @@ class Application:
         self.auteur = 'vanessa kovalsky'
         self.licence = 'GNU/GPL'
 
-    def add(data):
+    def add(self, data):
         return 'Application ajoutée'
     
     def get_nom(self):
