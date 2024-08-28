@@ -9,8 +9,8 @@ class Application:
     def add(data):
         return 'Application ajoutée'
     
-    def get_nom():
-        return nom
+    def get_nom(self):
+        return self.nom
     
     def liste():
         return 'Liste des applications'
