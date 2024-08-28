@@ -12,5 +12,5 @@ class Application:
     def get_nom(self):
         return self.nom
     
-    def liste(self):
+    def liste():
         return 'Liste des applications'
